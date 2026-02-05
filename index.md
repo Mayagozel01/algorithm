@@ -6,6 +6,8 @@
 
 **Задачи LeetCode:**
 - **704. Binary Search** (Easy) - классическая реализация
+## bellik
+# hokman sorted massiw bolmaly
 ```
 var search = function(nums, target) {
         let left = 0;
