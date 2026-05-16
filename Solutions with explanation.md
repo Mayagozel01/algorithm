@@ -8,6 +8,7 @@
 - **704. Binary Search** (Easy) - классическая реализация
 ## bellik
 # hokman sorted massiw bolmaly
+#### sanlardan duzulen tertipleshdirilen massiwlerde islendik bir sanyn ornuny (indeksini) tapmak uchin **Binary Search** (ikilik gozleg) algoritmi ulanylyar.
 ```
 var search = function(nums, target) {
         let left = 0;
